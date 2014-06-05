@@ -12,7 +12,7 @@ require "hoe"
 # Hoe.plugin :rcov
 # Hoe.plugin :rdoc
 
-Hoe.spec "simple-record" do
+Hoe.spec "SimpleRecord" do
   # HEY! If you fill these out in ~/.hoe_template/default/Rakefile.erb then
   # you'll never have to touch them again!
   # (delete this comment too, of course)

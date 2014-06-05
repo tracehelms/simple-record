@@ -3,6 +3,6 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/simple/record
-lib/simple/record.rb
-test/test_simple/record.rb
+bin/simple_record
+lib/simple_record.rb
+test/test_simple_record.rb

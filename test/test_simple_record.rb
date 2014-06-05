@@ -1,10 +1,8 @@
 gem "minitest"
 require "minitest/autorun"
-require "simple/record"
+require "simple_record"
 
-module TestSimple; end
-
-class TestSimple::TestRecord < Minitest::Test
+class TestSimpleRecord < Minitest::Test
   def test_sanity
     flunk "write tests or I will kneecap you"
   end
