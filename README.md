@@ -1,10 +1,6 @@
 # SimpleRecord
 
-home  :: FIX (url)
-code  :: FIX (url)
-rdoc  :: FIX (url)
-bugs  :: FIX (url)
-... etc ...
+FIX
 
 ## DESCRIPTION:
 
